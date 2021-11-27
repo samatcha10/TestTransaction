@@ -1,0 +1,12 @@
+C:\Users\samat\source\repos\TestTransaction\Transaction.DAL\obj\Debug\net5.0\Transaction.DAL.csproj.AssemblyReference.cache
+C:\Users\samat\source\repos\TestTransaction\Transaction.DAL\obj\Debug\net5.0\Transaction.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samat\source\repos\TestTransaction\Transaction.DAL\obj\Debug\net5.0\Transaction.DAL.AssemblyInfoInputs.cache
+C:\Users\samat\source\repos\TestTransaction\Transaction.DAL\obj\Debug\net5.0\Transaction.DAL.AssemblyInfo.cs
+C:\Users\samat\source\repos\TestTransaction\Transaction.DAL\obj\Debug\net5.0\Transaction.DAL.csproj.CoreCompileInputs.cache
+C:\Users\samat\source\repos\TestTransaction\Transaction.DAL\bin\Debug\net5.0\Transaction.DAL.deps.json
+C:\Users\samat\source\repos\TestTransaction\Transaction.DAL\bin\Debug\net5.0\Transaction.DAL.dll
+C:\Users\samat\source\repos\TestTransaction\Transaction.DAL\bin\Debug\net5.0\ref\Transaction.DAL.dll
+C:\Users\samat\source\repos\TestTransaction\Transaction.DAL\bin\Debug\net5.0\Transaction.DAL.pdb
+C:\Users\samat\source\repos\TestTransaction\Transaction.DAL\obj\Debug\net5.0\Transaction.DAL.dll
+C:\Users\samat\source\repos\TestTransaction\Transaction.DAL\obj\Debug\net5.0\ref\Transaction.DAL.dll
+C:\Users\samat\source\repos\TestTransaction\Transaction.DAL\obj\Debug\net5.0\Transaction.DAL.pdb

@@ -1,0 +1,318 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction\\Transaction.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.BL\\Transaction.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.BL\\Transaction.BL.csproj",
+        "projectName": "Transaction.BL",
+        "projectPath": "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.BL\\Transaction.BL.csproj",
+        "packagesPath": "C:\\Users\\samat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\samat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.DAL\\Transaction.DAL.csproj": {
+                "projectPath": "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.DAL\\Transaction.DAL.csproj"
+              },
+              "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.Model\\Transaction.Model.csproj": {
+                "projectPath": "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.Model\\Transaction.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Linq": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.DAL\\Transaction.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.DAL\\Transaction.DAL.csproj",
+        "projectName": "Transaction.DAL",
+        "projectPath": "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.DAL\\Transaction.DAL.csproj",
+        "packagesPath": "C:\\Users\\samat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\samat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.Model\\Transaction.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.Model\\Transaction.Model.csproj",
+        "projectName": "Transaction.Model",
+        "projectPath": "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.Model\\Transaction.Model.csproj",
+        "packagesPath": "C:\\Users\\samat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\samat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction\\Transaction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction\\Transaction.csproj",
+        "projectName": "Transaction",
+        "projectPath": "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction\\Transaction.csproj",
+        "packagesPath": "C:\\Users\\samat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\samat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.BL\\Transaction.BL.csproj": {
+                "projectPath": "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.BL\\Transaction.BL.csproj"
+              },
+              "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.DAL\\Transaction.DAL.csproj": {
+                "projectPath": "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.DAL\\Transaction.DAL.csproj"
+              },
+              "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.Model\\Transaction.Model.csproj": {
+                "projectPath": "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.Model\\Transaction.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DQqDS0WVcDnadh+IhVoKMyBCbdQdpaOxuh42DWmpVKyO+ThwHA9/MW6T8d1jY6XA4h5VhD1AAdES1jZPJJ72ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samat\\source\\repos\\samatcha10\\TestTransaction\\Transaction.Model\\Transaction.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samat\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\samat\source\repos\TestTransaction\Transaction.BL\bin\Debug\net5.0\Transaction.BL.deps.json
+C:\Users\samat\source\repos\TestTransaction\Transaction.BL\bin\Debug\net5.0\Transaction.BL.dll
+C:\Users\samat\source\repos\TestTransaction\Transaction.BL\bin\Debug\net5.0\ref\Transaction.BL.dll
+C:\Users\samat\source\repos\TestTransaction\Transaction.BL\bin\Debug\net5.0\Transaction.BL.pdb
+C:\Users\samat\source\repos\TestTransaction\Transaction.BL\bin\Debug\net5.0\Transaction.DAL.dll
+C:\Users\samat\source\repos\TestTransaction\Transaction.BL\bin\Debug\net5.0\Transaction.Model.dll
+C:\Users\samat\source\repos\TestTransaction\Transaction.BL\bin\Debug\net5.0\Transaction.DAL.pdb
+C:\Users\samat\source\repos\TestTransaction\Transaction.BL\bin\Debug\net5.0\Transaction.Model.pdb
+C:\Users\samat\source\repos\TestTransaction\Transaction.BL\obj\Debug\net5.0\Transaction.BL.csproj.AssemblyReference.cache
+C:\Users\samat\source\repos\TestTransaction\Transaction.BL\obj\Debug\net5.0\Transaction.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samat\source\repos\TestTransaction\Transaction.BL\obj\Debug\net5.0\Transaction.BL.AssemblyInfoInputs.cache
+C:\Users\samat\source\repos\TestTransaction\Transaction.BL\obj\Debug\net5.0\Transaction.BL.AssemblyInfo.cs
+C:\Users\samat\source\repos\TestTransaction\Transaction.BL\obj\Debug\net5.0\Transaction.BL.csproj.CoreCompileInputs.cache
+C:\Users\samat\source\repos\TestTransaction\Transaction.BL\obj\Debug\net5.0\Transaction.BL.csproj.CopyComplete
+C:\Users\samat\source\repos\TestTransaction\Transaction.BL\obj\Debug\net5.0\Transaction.BL.dll
+C:\Users\samat\source\repos\TestTransaction\Transaction.BL\obj\Debug\net5.0\ref\Transaction.BL.dll
+C:\Users\samat\source\repos\TestTransaction\Transaction.BL\obj\Debug\net5.0\Transaction.BL.pdb
